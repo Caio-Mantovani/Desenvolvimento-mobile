@@ -1,5 +1,16 @@
-# Desenvolvimento-mobile
-Protótipo App de gerenciamento de serviços e vendas.
+# luk_cell_app
 
+A new Flutter project.
 
-Alunos: Caio Augusto Mantovani 1012023100608; Daniel Honorato 1012023100609; Douglas Henrique do Prado 1012023100723
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
